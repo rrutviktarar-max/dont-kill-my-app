@@ -1,5 +1,5 @@
 ---
-manufacturer:
+manufacturer:adb shell /data/app/~~cQt_7bvDHd_3LHmO8HbpVg==/moe.shizuku.privileged.api-crR-BISIFUnEaPlboZ2PNw==/lib/arm64/libshizuku.so
     - htc
 
 ---
